@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/petrpatek/create-uule/issues"
   },
-  "homepage": "https://github.com/petrpatek/create-uule#readme"
+  "homepage": "https://github.com/petrpatek/create-uule#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-apify": "0.0.2"
+  }
 }
