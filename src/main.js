@@ -10,7 +10,7 @@ const { IDENTIFIER } = require('./constants');
 module.exports = (locationCanonicalName) => {
     const buffer = Buffer.from(locationCanonicalName);
     const encodedLocationName = buffer.toString('base64');
-    const secretPart = register[locationCanonicalName];
+    const secretPart = register[locationCanonicalName.length];
 
     return `${IDENTIFIER}${secretPart}${encodedLocationName}`;
 };

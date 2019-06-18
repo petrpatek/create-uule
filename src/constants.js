@@ -1,3 +1,3 @@
 module.exports = {
-    INDETIFIER: 'w+CAIQICI',
+    IDENTIFIER: 'w+CAIQICI',
 };
