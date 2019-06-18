@@ -1,6 +1,6 @@
 {
   "name": "create-uule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates google uule parameter",
   "main": "index.js",
   "scripts": {
