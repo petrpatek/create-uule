@@ -1,0 +1,19 @@
+{
+  "name": "create-uule",
+  "version": "1.0.0",
+  "description": "Creates google uule parameter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrpatek/create-uule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrpatek/create-uule/issues"
+  },
+  "homepage": "https://github.com/petrpatek/create-uule#readme"
+}
