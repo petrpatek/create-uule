@@ -1,7 +1,7 @@
 # UULE generator
 Generates the uule parameter that determines location for Google results.
 
-##Example usage
+## Example usage
 ### NodeJs
 ```javascript
 const createUule = require('create-uule');
